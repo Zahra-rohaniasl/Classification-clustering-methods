@@ -1,9 +1,7 @@
-# BSMM-lab-6
+# Customer churn data
 
 ------------------------------------------------------------------------
 
-Starter materials for BSMM-8740 lab-6. See the course website for lab instructions.
+Today we will be using customer churn data.
 
-Before you wrap up the assignment, make sure all documents are updated on your GitHub repo (i.e. save, stage, commit and push).
-
-Remember -- you do **not** have to turn in an \*.html file. I will be pulling your work directly from your repository on the [course github site](https://github.com/BSMM-8740-Fall-2023).
+In the customer management lifecycle, customer churn refers to a decision made by the customer about ending the business relationship. It is also referred as loss of clients or customers. This dataset contains 20 features related to churn in a telecom context and we will look at how to predict churn and estimate the effect of predictors on the customer churn odds ratio.
